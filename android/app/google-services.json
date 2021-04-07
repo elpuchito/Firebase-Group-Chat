@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78594062755",
+    "project_id": "appbrewery-chat",
+    "storage_bucket": "appbrewery-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78594062755:android:9309ad95ada505e6bcc216",
+        "android_client_info": {
+          "package_name": "com.example.bre_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78594062755-vn2k353vll84d4en1mv5e3m3nc4722s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-evUC5DJcroAmXqkJ6myP1jeMfoGB_2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78594062755-vn2k353vll84d4en1mv5e3m3nc4722s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
